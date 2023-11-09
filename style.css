@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+html.body{
+    height: 100px;
+    width: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.button{
+    padding: 21px;
+    border-radius: 10px;
+    background-color: rgb(58, 54, 54) ;
+    color: white;
+}
+.flex {
+display: flex;
+}
+.flex-col{
+flex-direction: column;
+}
+.row{
+    margin: 3px;
+   
+}
+
