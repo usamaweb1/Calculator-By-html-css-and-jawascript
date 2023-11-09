@@ -1,0 +1,24 @@
+.center{
+    text-align: center;
+}
+.container{
+    text-align: center;
+   
+   
+}
+.mx-auto{
+    margin: auto;
+}
+.m-w-20{
+ max-width: 40vw;
+}
+.input{
+    border-radius: 15px;
+    border: 2.5px solid #244624;
+    font-size:32px;
+    height: 39px;
+    width: 235px;
+    margin: auto;
+
+   
+}
